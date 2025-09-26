@@ -1,0 +1,16 @@
+   30  tr -s '[:space:]' '\n' < El-arriero.txt | tr -d '[:punct:]' | sort | uniq -c | sort -nr
+   31  git -v
+   32  cd Prueba1
+   33  ls
+   34  cd ..
+   35  git config --global user.name "Joaquin-dot-art"\ngit config --global user.email ifranco50@gmail.com
+   36  cd Prueba1\nGit clone https://github.com/Joaquin-dot-art/Franco-Joaquin.git
+   37  ls
+   38  mv Prueba1/50-comandos.log Franco-Joaquin
+   39  cd ..
+   40  ls
+   41  mv Prueba1/50-comandos.log Franco-Joaquin
+   42  cd Prueba1
+   43  cd Franco-Joaquin
+   44  dir
+   45  ls
