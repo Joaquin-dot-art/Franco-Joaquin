@@ -1,0 +1,16 @@
+   77  git push https://github.com/Joaquin-dot-art/Franco-Joaquin.git Franco-Joaquin
+   78  git remote v
+   79  git remote -v
+   80  git push -u origin main\n
+   81  git log --oneline
+   82  git show --name-only HEAD\n
+   83  ls
+   84  cat 50-comandos.log
+   85  ls
+   86  git add .\n
+   87  git commit -m "Subo la actividad final de Módulo"
+   88  git push -u origin main\n
+   89  cd Prueba1
+   90  wc -w El-arriero.txt
+   91  grep -ci "vaquitas" El-arriero.txt
+   92  history | tail -n 50 > 50-comandos.log
